@@ -1,0 +1,1 @@
+export { EmailContent } from "./EmailContent";
